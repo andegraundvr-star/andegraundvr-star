@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andegraundvr-star&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Machine-Magician&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andegraundvr-star&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-Magician&layout=compact&theme=radical&hide_border=true)
 
 ### 🥇 Kaggle
 
@@ -43,7 +43,7 @@
 ### 📫 Connect with me
 
 - 📧 Email: [AndegraundVR@gmail.com](mailto:AndegraundVR@gmail.com)
-- 🐙 GitHub: [andegraundvr-star](https://github.com/andegraundvr-star)
+- 🐙 GitHub: [Machine-Magician](https://github.com/Machine-Magician)
 - 📊 Kaggle: [Vasya Restrim](https://www.kaggle.com/vasyarestrim)
 
 ---
